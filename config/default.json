@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://khanMedia:khanMedia@khanmedia-2wfxg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "SecretToken",
+    "githubsecret": "bed0bbad22d312e259a2ccd5f0f4697da9a54ed5",
+    "githubClientId": "Iv1.6516e0368f80a14f"
+}
